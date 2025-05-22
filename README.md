@@ -4,7 +4,7 @@
   👨‍💻 Actuary | 📊 Quantitative Finance Learner | 🤖 AI Enthusiast | 🧠 LLMs & Data Strategy
 </p>
 
-<img align="right" width="300px" alt="Bear Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ---
 

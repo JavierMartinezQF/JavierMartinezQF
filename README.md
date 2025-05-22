@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **s
 
 🧠 About Me
 - 🎓 I studied **Actuarial Science** at **Faculty of Sciences of Universidad Nacional Autónoma de México (UNAM)** 
-- 🎓 Background in **Actuarial Science**, with experience in applied statistics and data-driven decision making.  
+- 📊 My actuarial background allowed me to gain experience in applied statistics and data-driven decision making.  
 - 📊 I have worked with large datasets, predictive modeling, and database systems.
 - 📘 I'm studying **Quantitative Finance**, combining math, coding, and markets.
 - 🔧 I work mostly in **Python** using tools like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `yfinance`. 

@@ -9,8 +9,8 @@
 Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **statistical analysis**, **data mining**, and **business intelligence**. I'm currently expanding my skills in **Quantitative Finance** and **Artificial Intelligence**, combining math, data, and code to build useful models and tools.
 
 🧠 About Me
-
-- 🎓  Background in **Actuarial Science**, with experience in applied statistics and data-driven decision making.  
+- 🎓 I studied **Actuarial Science** at **Faculty of Sciences of Universidad Nacional Autónoma de México (UNAM)** 
+- 🎓 Background in **Actuarial Science**, with experience in applied statistics and data-driven decision making.  
 - 📊 I have worked with large datasets, predictive modeling, and database systems.
 - 📘 I'm studying **Quantitative Finance**, combining math, coding, and markets.
 - 🔧 I work mostly in **Python** using tools like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `yfinance`. 

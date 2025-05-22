@@ -82,5 +82,5 @@ My goal is to become a **Quantitative Analyst and AI Engineer** who creates solu
 
 Feel free to explore my work, fork a repo, or contact me for collaboration or discussion.
 
-🔗 [LinkedIn](www.linkedin.com/in/javiermartinezqf) | ✉️ javiermg.act@gmail.com
+🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com
 

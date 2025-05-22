@@ -4,12 +4,7 @@
   👨‍💻 Actuary | 📊 Quantitative Finance Learner | 🤖 AI Enthusiast | 🧠 LLMs & Data Strategy
 </p>
 
-<div align="right"> 
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
-</div>
-
-
----
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **statistical analysis**, **data mining**, and **business intelligence**. I'm currently expanding my skills in **Quantitative Finance** and **Artificial Intelligence**, combining math, data, and code to build useful models and tools.
 
@@ -18,7 +13,7 @@ Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **s
 - 🎓  Background in **Actuarial Science**, with experience in applied statistics and data-driven decision making.  
 - 📊 I have worked with large datasets, predictive modeling, and database systems.
 - 📘 I'm studying **Quantitative Finance**, combining math, coding, and markets.
-- 🔧 I work mostly in **Python** using tools like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `yfinance`.
+- 🔧 I work mostly in **Python** using tools like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `yfinance`. 
 - 🧠 I believe in **strategic thinking**, antifragility, and constant self-improvement.  
 - 💻 I enjoy building things that mix **finance**, **AI**, and **technology**.
 

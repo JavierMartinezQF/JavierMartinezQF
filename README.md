@@ -4,7 +4,10 @@
   👨‍💻 Actuary | 📊 Quantitative Finance Learner | 🤖 AI Enthusiast | 🧠 LLMs & Data Strategy
 </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<div align="right"> 
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
+</div>
+
 
 ---
 

@@ -1,58 +1,91 @@
-<h1 align="center"><b>Javier Martínez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Javier Martínez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Actuary | Quantitative Finance | AI & LLM Engineering</b><br>
-  <i>Combining mathematics, financial markets, and generative intelligence.</i>
+  👨‍💻 Actuary | 📊 Quantitative Finance | 🤖 AI Enthusiast | 🧠 LLMs & Data Strategy
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/javiermartinezqf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:javiermg.act@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **statistical analysis**, **data mining**, and **business intelligence**. I'm currently expanding my skills in **Quantitative Finance** and **Artificial Intelligence**, combining math, data, and code to build useful models and tools.
+
+🧠 About Me
+- 🎓 I studied **Actuarial Science** at **Faculty of Sciences of Universidad Nacional Autónoma de México (UNAM)** 
+- 📊 My actuarial background allowed me to gain experience in applied statistics and data-driven decision making.  
+- 📊 I have worked with large datasets, predictive modeling, and database systems.
+- 📘 I'm studying **Quantitative Finance**, combining math, coding, and markets.
+- 🔧 I work mostly in **Python** using tools like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `yfinance`. 
+- 🧠 I believe in **strategic thinking**, antifragility, and constant self-improvement.  
+- 💻 I enjoy building things that mix **finance**, **AI**, and **technology**.
+
+## 💻 Tech Stack & Tools
+
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+</div>
+
+<p>
+  
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
----
+## 🚀 Current Focus
 
-### 🧠 Perfil Profesional
-Soy **Actuario por la UNAM**, especializado en el análisis estadístico y la toma de decisiones basada en datos. Actualmente, mi enfoque converge en la intersección del **Quantitative Finance** y la **IA Generativa**, construyendo modelos financieros antifrágiles y herramientas de ingeniería de prompts/LLMs.
+I'm currently improving my skills in:
 
-* 🔭 **Actualmente:** Optimizando portafolios y experimentando con arquitecturas de LLMs.
-* 🎓 **Background:** Ciencia Actuarial (Facultad de Ciencias, UNAM).
-* ⚡ **Filosofía:** "Maximizar el ensayo y error, dominando la parte del error".
+- 📈 Quantitative finance: portfolio optimization, Monte Carlo simulations, financial engineering, stochastic calculus and derivatives pricing
+- 🔎 **Artificial Intelligence**, with a special focus on **Generative AI** 
+- 🤖 Time series forecasting and anomaly detection
+- 🛠️ Git, GitHub, and Jupyter Notebooks for reproducible research  
+- 🧠 Passionate about **Large Language Models (LLMs)** and **LLM engineering** — learning how to use, fine-tune, and build tools with them  
+- 🛠️ Automation and decision-support systems using AI and data science  
 
----
+## 📂 Projects
 
-### 🛠️ Stack Tecnológico
+Here you’ll find notebooks and projects on:
 
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Quant & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white) |
-| **Machine Learning & AI** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/GPT--LLMs-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
-| **Visualización & BI** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| **Entorno & Dev** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+- Financial modeling and risk analysis  
+- Forecasting and backtesting strategies  
+- Yield curve and interest rate models  
+- Generative AI tools and prompts  
+- Applied notebooks based on famous texts on Quant Finance and related topics.
 
----
+## 🎯 Vision
 
-### 📈 Actividad y Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
+My goal is to become a **Quantitative Analyst and AI Engineer** who creates solutions that are clear, reliable, and antifragile. I believe in building things that work, learn fast, and make an impact.
 
----
+> “Be strategic. Be useful. Stay antifragile.”
+> 
+> “Learn to fail with pride - and do so fast and cleanly. Maximise trial and error - by mastering the error part.”
 
-### 📁 Proyectos Destacados
-* **[Quant-Finance-Models](tu-link):** Modelación de curvas de rendimiento y simulación Monte Carlo.
-* **[AI-Strategies](tu-link):** Implementación de agentes LLM para análisis de mercados financieros.
-* **[Backtesting-Engine](tu-link):** Evaluación de estrategias de trading y análisis de riesgo.
+## 🤝 Let’s Connect
 
----
+Feel free to explore my work, fork a repo, or contact me for collaboration or discussion.
 
-### 🎯 Visión
-Mi meta es consolidarme como **Quantitative Analyst & AI Engineer**. Creo en soluciones que no solo sean precisas, sino útiles y resistentes al caos (antifrágiles).
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-> *"Be strategic. Be useful. Stay antifragile."*
-
----
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MarikIshtar007&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com

@@ -4,8 +4,6 @@
   👨‍💻 Actuary | 📊 Quantitative Finance | 📊 Risk Management | 🤖 Data Science| 🧠 LLMs | 🤖 Fraud Detection | 🤖 Algorithmic Trading
 </p>
 
-  🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com
-
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **Statistical Analysis**, **Risk Management**, **Quantitative Finance** and **Machine Learning**. 

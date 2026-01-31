@@ -4,23 +4,20 @@
   👨‍💻 Actuary | 📊 Quantitative Finance | 🤖 AI Enthusiast | 🧠 LLMs & Data Strategy
 </p>
 
-                        ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-                        ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-                                                             🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com
+  🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **statistical analysis**, **data mining**, and **business intelligence**. I'm currently expanding my skills in **Quantitative Finance** and **Artificial Intelligence**, combining math, data, and code to build useful models and tools.
+Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **Statistical Analysis**, **Risk Management**, **Quantitative Finance** and **Machine Learning**. 
 
 🧠 About Me
-- 🎓 I studied **Actuarial Science** at **Faculty of Sciences of Universidad Nacional Autónoma de México (UNAM)** 
-- 📊 My actuarial background allowed me to gain experience in applied statistics and data-driven decision making.  
-- 📊 I have worked with large datasets, predictive modeling, and database systems.
-- 📘 I'm studying **Quantitative Finance**, combining math, coding, and markets.
-- 🔧 I work mostly in **Python** using tools like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `yfinance`. 
-- 🧠 I believe in **strategic thinking**, antifragility, and constant self-improvement.  
-- 💻 I enjoy building things that mix **finance**, **AI**, and **technology**.
+- 🎓 I studied **Actuarial Science** at **Faculty of Sciences of Universidad Nacional Autónoma de México (UNAM)** 💻
+- 🔭 **Currently focusing on:** Portfolio optimization , LLM architectures and  Algorithmic Trading. 💻
+- 🧠 I believe in **strategic thinking**, antifragility, and constant self-improvement. 💻
+
 
 ## 💻 Tech Stack & Tools
 
@@ -52,16 +49,6 @@ Welcome to my GitHub profile! I'm an **Actuary** with a strong background in **s
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
-## 🚀 Current Focus
-
-I'm currently improving my skills in:
-
-- 📈 Quantitative finance: portfolio optimization, Monte Carlo simulations, financial engineering, stochastic calculus and derivatives pricing
-- 🔎 **Artificial Intelligence**, with a special focus on **Generative AI** 
-- 🤖 Time series forecasting and anomaly detection
-- 🛠️ Git, GitHub, and Jupyter Notebooks for reproducible research  
-- 🧠 Passionate about **Large Language Models (LLMs)** and **LLM engineering** — learning how to use, fine-tune, and build tools with them  
-- 🛠️ Automation and decision-support systems using AI and data science  
 
 ## 📂 Projects
 
@@ -75,7 +62,7 @@ Here you’ll find notebooks and projects on:
 
 ## 🎯 Vision
 
-My goal is to become a **Quantitative Analyst and AI Engineer** who creates solutions that are clear, reliable, and antifragile. I believe in building things that work, learn fast, and make an impact.
+My goal is to become a **Quantitative Analyst and ML Engineer** who creates solutions that are clear, reliable, and antifragile. I believe in building things that work, learn fast, and make an impact.
 
 > “Be strategic. Be useful. Stay antifragile.”
 > 

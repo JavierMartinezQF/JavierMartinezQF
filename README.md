@@ -4,9 +4,6 @@
   👨‍💻 Actuary | 📊 Quantitative Finance | 📊 Risk Management | 🤖 Data Science| 🧠 LLMs | 🤖 Fraud Detection | 🤖 Algorithmic Trading
 </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
   🔗 www.linkedin.com/in/javiermartinezqf | ✉️ javiermg.act@gmail.com
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>

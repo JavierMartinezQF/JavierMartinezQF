@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello, I'm Javier Martínez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  👨‍💻 Actuary | 📊 Quantitative Finance | 🤖 AI Enthusiast | 🧠 LLMs & Data Strategy
+  👨‍💻 Actuary | 📊 Quantitative Finance | 📊 Risk Management | 🤖 Data Science| 🧠 LLMs | 🤖 Fraud Detection | 🤖 Algorithmic Trading
 </p>
 
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
